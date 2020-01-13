@@ -14,5 +14,7 @@ public class App
                 .build().start();
         System.out.println( "Hello AWSCodeGuru!. Lets start testing" );
         int a = 0;
+        String SECRET_KEY = "AENASDNaondad";
+        String ACCESS_KEY = "adinasdnaosnd";
     }
 }
